@@ -1,0 +1,3 @@
+*.py[cod]
+/*.egg-info
+/ofcom_rangeholder_api/data
